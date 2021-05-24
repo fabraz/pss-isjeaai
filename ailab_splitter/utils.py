@@ -166,7 +166,7 @@ def plot_one_image(images, labels, classes, file_names, normalize = True):
     rows = int(np.sqrt(n_images))
     cols = int(np.sqrt(n_images))
 
-    fig = plt.figure(figsize = (45, 60))
+    fig = plt.figure(figsize = (60, 75))
 
     for i in range(rows*cols):
 
