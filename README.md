@@ -39,5 +39,5 @@ https://doi.org/10.1016/j.engappai.2021.104394.
     url = {https://www.sciencedirect.com/science/article/pii/S0952197621002426},
     author = {Fabricio Ataides Braz and Nilton Correia {da Silva} and Jonathan Alis Salgado Lima},
     keywords = {Page Stream Segmentation, Classification},    
-}
+    }
 
