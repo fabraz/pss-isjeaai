@@ -14,6 +14,9 @@ https://doi.org/10.1016/j.engappai.2021.104394
 
 [Tobacco 800 and AI Lab Splitter](https://onedrive.live.com/?authkey=%21AGSL%2DQed7EsCmoQ&id=1C53FEF72A2AC3F3%2123947&cid=1C53FEF72A2AC3F3)
 
+### Labeling Tool
+The data labeling process was aided by the [Fastagger](https://github.com/fabraz/fastagger) Tool.
+
 ## Citation
 
 Fabricio Ataides Braz, Nilton Correia da Silva, Jonathan Alis Salgado Lima,
